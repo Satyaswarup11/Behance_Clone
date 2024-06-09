@@ -1,6 +1,6 @@
 # Behance Clone 
 
- This is a simplified clone of the Behance landing page, created using React. The website is made responsive so that it can used in all types of screens.
+ This is a simplified clone of the Behance landing page, created using React. The website is made responsive so that it can be used in all types of screens.
 
 ## Features 
 
@@ -51,7 +51,7 @@ npm start
 2.Open your browser and visit http://localhost:3000 to view the app.
 
 ## Folder Structure
-- src/components: Contains React components for different pages.
+- src/components: Contains React components for different sections.
 - src/styles: Contains the styling for all the components
 - src/Data: Contains the static Data for Images
 - public: Public assets and HTML template.
