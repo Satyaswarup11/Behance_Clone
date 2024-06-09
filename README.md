@@ -4,11 +4,11 @@
 
 ## Features 
 
-- Users can type a keyword, and the application provides autocomplete suggestions.
-- Added filter according to the search text.
-- Included a category dropdown and added a Image filter accordingly for the Most viewed, Most discussed etc
-- When a user clicks on an image, a modal displays the selected image in a larger view.
-- Added a like button for each image. Clicking on the button simulates liking the image.
+- **Autocomplete Search**: Users can type a keyword, and the application provides autocomplete suggestions.
+- **Search Filter**: Filters images according to the search text.
+- **Category Filter**: Includes a dropdown to filter images by categories such as Most Viewed, Most Discussed, etc.
+- **Image Modal**: When a user clicks on an image, a modal displays the selected image in a larger view.
+- **Like Button**: Each image has a like button. Clicking the button simulates liking the image.
 
 ## Prerequisites
 
