@@ -1,0 +1,74 @@
+.filter-container { 
+    border-bottom: 1px solid #ccc; 
+    display: flex;
+    align-items: center;
+    padding: 10px 0; 
+    padding-right: 10px;
+    margin-left: 20px; 
+    /* justify-content: space-between; */
+  }
+  
+  .filter-wrapper { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    
+  }
+  .items{
+    display: flex;
+    align-items: center;
+  }
+
+  
+  .filter-item { 
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .filter-item .icon { 
+    margin-right: 5px; 
+  }
+  
+  .filter-item .name { 
+    font-weight: bold;
+    font-size: 14px; 
+  }
+  
+  .filter-item .arrow { 
+    margin-left: 5px;
+  }
+  
+  .sort-container { 
+    margin-left: auto; 
+    display: flex;
+    align-items: center;
+  }
+  
+  .sort-label { 
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 5px; 
+  }
+  
+  .sort-select { 
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+
+  .horizontal-scroll {
+    overflow-x: auto; 
+    white-space: nowrap; 
+  }
+
+
+.horizontal-scroll .filter-item {
+  margin-right: 20px; /* space between items */
+}
